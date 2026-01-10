@@ -25,3 +25,29 @@ F:\2025 - 2026\StudyC#\winform\projectQLTV\obj\Debug\projectQLTV.View.FormTheThu
 F:\2025 - 2026\StudyC#\winform\projectQLTV\obj\Debug\projectQLTV.View.FormThongKe.resources
 F:\2025 - 2026\StudyC#\winform\projectQLTV\obj\Debug\projectQLTV.View.FormSach.resources
 F:\2025 - 2026\StudyC#\winform\projectQLTV\obj\Debug\projectQLTV.View.FormTheLoai.resources
+D:\c#\obj\Debug\projectQLTV.csproj.AssemblyReference.cache
+D:\c#\obj\Debug\projectQLTV.DangNhap.resources
+D:\c#\obj\Debug\projectQLTV.View.FormDocGia.resources
+D:\c#\obj\Debug\projectQLTV.Properties.Resources.resources
+D:\c#\obj\Debug\projectQLTV.View.FormKeSach.resources
+D:\c#\obj\Debug\projectQLTV.View.FormKhoa.resources
+D:\c#\obj\Debug\projectQLTV.View.FormLop.resources
+D:\c#\obj\Debug\projectQLTV.View.FormMuonTra.resources
+D:\c#\obj\Debug\projectQLTV.View.FormNgonNgu.resources
+D:\c#\obj\Debug\projectQLTV.View.FormNhanVien.resources
+D:\c#\obj\Debug\projectQLTV.View.FormNXB.resources
+D:\c#\obj\Debug\projectQLTV.View.FormSach.resources
+D:\c#\obj\Debug\projectQLTV.View.FormTacGia.resources
+D:\c#\obj\Debug\projectQLTV.View.FormTheLoai.resources
+D:\c#\obj\Debug\projectQLTV.View.FormTheThuVien.resources
+D:\c#\obj\Debug\projectQLTV.View.FormThongKe.resources
+D:\c#\obj\Debug\projectQLTV.TrangChu.resources
+D:\c#\obj\Debug\projectQLTV.csproj.GenerateResource.cache
+D:\c#\obj\Debug\projectQLTV.csproj.CoreCompileInputs.cache
+D:\c#\obj\Debug\projectQLTV.exe
+D:\c#\obj\Debug\projectQLTV.pdb
+D:\c#\bin\Debug\projectQLTV.exe.config
+D:\c#\bin\Debug\projectQLTV.exe
+D:\c#\bin\Debug\projectQLTV.pdb
+D:\c#\bin\Debug\Guna.UI2.dll
+D:\c#\obj\Debug\projectQ.4F8F37B2.Up2Date

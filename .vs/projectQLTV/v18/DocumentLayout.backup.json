@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|D:\\c#\\view\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formthethuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formthethuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|D:\\c#\\view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|D:\\c#\\view\\formngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|D:\\c#\\view\\formkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|D:\\c#\\view\\formkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|D:\\c#\\view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\view\\formsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|d:\\c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "thuvien.cs",
+              "DocumentMoniker": "D:\\c#\\thuvien.cs",
+              "RelativeDocumentMoniker": "thuvien.cs",
+              "ToolTip": "D:\\c#\\thuvien.cs",
+              "RelativeToolTip": "thuvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:41:35.43Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSach.cs",
+              "DocumentMoniker": "D:\\c#\\View\\FormSach.cs",
+              "RelativeDocumentMoniker": "View\\FormSach.cs",
+              "ToolTip": "D:\\c#\\View\\FormSach.cs",
+              "RelativeToolTip": "View\\FormSach.cs",
+              "ViewState": "AgIAAHECAAAAAAAAAAAAAEcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:33:42.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTheThuVien.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormTheThuVien.cs",
+              "RelativeDocumentMoniker": "View\\FormTheThuVien.cs",
+              "ToolTip": "D:\\c#\\View\\FormTheThuVien.cs [Design]",
+              "RelativeToolTip": "View\\FormTheThuVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:33:10.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSach.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormSach.cs",
+              "RelativeDocumentMoniker": "View\\FormSach.cs",
+              "ToolTip": "D:\\c#\\View\\FormSach.cs [Design]",
+              "RelativeToolTip": "View\\FormSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:51:24.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTheLoai.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormTheLoai.cs",
+              "RelativeDocumentMoniker": "View\\FormTheLoai.cs",
+              "ToolTip": "D:\\c#\\View\\FormTheLoai.cs [Design]",
+              "RelativeToolTip": "View\\FormTheLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:33:06.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "View\\FormThongKe.cs",
+              "ToolTip": "D:\\c#\\View\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "View\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:43:15.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormNXB.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormNXB.cs",
+              "RelativeDocumentMoniker": "View\\FormNXB.cs",
+              "ToolTip": "D:\\c#\\View\\FormNXB.cs [Design]",
+              "RelativeToolTip": "View\\FormNXB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:32:55.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTacGia.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormTacGia.cs",
+              "RelativeDocumentMoniker": "View\\FormTacGia.cs",
+              "ToolTip": "D:\\c#\\View\\FormTacGia.cs [Design]",
+              "RelativeToolTip": "View\\FormTacGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:33:01.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLop.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormLop.cs",
+              "RelativeDocumentMoniker": "View\\FormLop.cs",
+              "ToolTip": "D:\\c#\\View\\FormLop.cs [Design]",
+              "RelativeToolTip": "View\\FormLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:32:34.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormNgonNgu.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormNgonNgu.cs",
+              "RelativeDocumentMoniker": "View\\FormNgonNgu.cs",
+              "ToolTip": "D:\\c#\\View\\FormNgonNgu.cs [Design]",
+              "RelativeToolTip": "View\\FormNgonNgu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:43:15.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "View\\FormNhanVien.cs",
+              "ToolTip": "D:\\c#\\View\\FormNhanVien.cs [Design]",
+              "RelativeToolTip": "View\\FormNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:43:15.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\DangNhap.cs",
+              "RelativeDocumentMoniker": "View\\DangNhap.cs",
+              "ToolTip": "D:\\c#\\View\\DangNhap.cs [Design]",
+              "RelativeToolTip": "View\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:31:25.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormKeSach.cs",
+              "DocumentMoniker": "D:\\c#\\View\\FormKeSach.cs",
+              "RelativeDocumentMoniker": "View\\FormKeSach.cs",
+              "ToolTip": "D:\\c#\\View\\FormKeSach.cs",
+              "RelativeToolTip": "View\\FormKeSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:32:18.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormSach.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\View\\FormSach.Designer.cs",
+              "RelativeDocumentMoniker": "View\\FormSach.Designer.cs",
+              "ToolTip": "D:\\c#\\View\\FormSach.Designer.cs",
+              "RelativeToolTip": "View\\FormSach.Designer.cs",
+              "ViewState": "AgIAAIgCAAAAAAAAAAAlwMUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:56:16.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormKhoa.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormKhoa.cs",
+              "RelativeDocumentMoniker": "View\\FormKhoa.cs",
+              "ToolTip": "D:\\c#\\View\\FormKhoa.cs [Design]",
+              "RelativeToolTip": "View\\FormKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:43:15.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormKeSach.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormKeSach.cs",
+              "RelativeDocumentMoniker": "View\\FormKeSach.cs",
+              "ToolTip": "D:\\c#\\View\\FormKeSach.cs [Design]",
+              "RelativeToolTip": "View\\FormKeSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:43:15.604Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormDocGia.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\View\\FormDocGia.cs",
+              "RelativeDocumentMoniker": "View\\FormDocGia.cs",
+              "ToolTip": "D:\\c#\\View\\FormDocGia.cs [Design]",
+              "RelativeToolTip": "View\\FormDocGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:43:15.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:41:24.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

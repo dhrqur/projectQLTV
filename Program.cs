@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using projectQLTV.View;
 
 namespace projectQLTV
 {
@@ -16,7 +17,7 @@ namespace projectQLTV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TrangChu());
+            Application.Run(new FormSach());
         }
     }
 }
