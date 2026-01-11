@@ -18,7 +18,7 @@ namespace projectQLTV
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection("Data Source=DUC;Initial Catalog=dbqltv;Integrated Security=True");
+        SqlConnection con = thuvien.con;
         public void connect()
         {
             if (con.State == ConnectionState.Closed)
