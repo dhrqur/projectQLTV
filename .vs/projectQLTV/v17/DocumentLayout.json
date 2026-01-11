@@ -1,122 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\",
+  "WorkspaceRootPath": "E:\\BTLc#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formkesach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formkesach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|e:\\btlc#\\view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|E:\\BTLc#\\view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formmuontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formmuontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formmuontra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formmuontra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formthethuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formthethuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formthethuvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formthethuvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formlop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formlop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formkhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formkhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formkesach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formngonngu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formngonngu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formnxb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnxb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formtacgia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtacgia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formtheloai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtheloai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formdocgia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formdocgia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|f:\\2025 - 2026\\studyc#\\winform\\projectqltv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|E:\\BTLc#\\thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,395 +22,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormMuonTra.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormMuonTra.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormMuonTra.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormMuonTra.Designer.cs",
-              "RelativeToolTip": "View\\FormMuonTra.Designer.cs",
-              "ViewState": "AgIAAOMCAAAAAAAAAAAUwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:49:35.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormMuonTra.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormMuonTra.cs",
-              "RelativeDocumentMoniker": "View\\FormMuonTra.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormMuonTra.cs [Design]",
-              "RelativeToolTip": "View\\FormMuonTra.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:49:30.018Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormThongKe.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormThongKe.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormThongKe.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormThongKe.Designer.cs",
-              "RelativeToolTip": "View\\FormThongKe.Designer.cs",
-              "ViewState": "AgIAAOECAAAAAAAAAAAqwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:49:03.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormThongKe.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormThongKe.cs",
-              "RelativeDocumentMoniker": "View\\FormThongKe.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormThongKe.cs [Design]",
-              "RelativeToolTip": "View\\FormThongKe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:48:57.065Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormTheThuVien.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheThuVien.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormTheThuVien.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheThuVien.Designer.cs",
-              "RelativeToolTip": "View\\FormTheThuVien.Designer.cs",
-              "ViewState": "AgIAAOECAAAAAAAAAAAqwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:48:21.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormTheThuVien.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheThuVien.cs",
-              "RelativeDocumentMoniker": "View\\FormTheThuVien.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheThuVien.cs [Design]",
-              "RelativeToolTip": "View\\FormTheThuVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:48:14.707Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormLop.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormLop.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormLop.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormLop.Designer.cs",
-              "RelativeToolTip": "View\\FormLop.Designer.cs",
-              "ViewState": "AgIAAOECAAAAAAAAAAAqwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:47:29.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormLop.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormLop.cs",
-              "RelativeDocumentMoniker": "View\\FormLop.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormLop.cs [Design]",
-              "RelativeToolTip": "View\\FormLop.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:47:25.478Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FormKhoa.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKhoa.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormKhoa.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKhoa.Designer.cs",
-              "RelativeToolTip": "View\\FormKhoa.Designer.cs",
-              "ViewState": "AgIAAOACAAAAAAAAAAAUwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:46:53.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormKhoa.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKhoa.cs",
-              "RelativeDocumentMoniker": "View\\FormKhoa.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKhoa.cs [Design]",
-              "RelativeToolTip": "View\\FormKhoa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:46:49.549Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormKeSach.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKeSach.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormKeSach.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKeSach.Designer.cs",
-              "RelativeToolTip": "View\\FormKeSach.Designer.cs",
-              "ViewState": "AgIAAPECAAAAAAAAAAAAwAQDAAAAAAAAAAAAAA==",
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\BTLc#\\View\\DangNhap.cs",
+              "RelativeDocumentMoniker": "View\\DangNhap.cs",
+              "ToolTip": "E:\\BTLc#\\View\\DangNhap.cs",
+              "RelativeToolTip": "View\\DangNhap.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDIAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:46:11.785Z",
+              "WhenOpened": "2026-01-11T03:51:27.798Z",
               "EditorCaption": ""
             },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormKeSach.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKeSach.cs",
-              "RelativeDocumentMoniker": "View\\FormKeSach.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormKeSach.cs [Design]",
-              "RelativeToolTip": "View\\FormKeSach.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:46:08.312Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FormNhanVien.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNhanVien.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormNhanVien.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNhanVien.Designer.cs",
-              "RelativeToolTip": "View\\FormNhanVien.Designer.cs",
-              "ViewState": "AgIAAN4CAAAAAAAAAAAswAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:45:19.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FormNhanVien.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNhanVien.cs",
-              "RelativeDocumentMoniker": "View\\FormNhanVien.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNhanVien.cs [Design]",
-              "RelativeToolTip": "View\\FormNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:45:11.89Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FormNgonNgu.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNgonNgu.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormNgonNgu.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNgonNgu.Designer.cs",
-              "RelativeToolTip": "View\\FormNgonNgu.Designer.cs",
-              "ViewState": "AgIAAN4CAAAAAAAAAAAswAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:44:29.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FormNgonNgu.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNgonNgu.cs",
-              "RelativeDocumentMoniker": "View\\FormNgonNgu.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNgonNgu.cs [Design]",
-              "RelativeToolTip": "View\\FormNgonNgu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:44:22.651Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FormNXB.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNXB.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormNXB.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNXB.Designer.cs",
-              "RelativeToolTip": "View\\FormNXB.Designer.cs",
-              "ViewState": "AgIAAN4CAAAAAAAAAAAswAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:43:36.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FormNXB.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNXB.cs",
-              "RelativeDocumentMoniker": "View\\FormNXB.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormNXB.cs [Design]",
-              "RelativeToolTip": "View\\FormNXB.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:43:20.095Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FormTacGia.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTacGia.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormTacGia.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTacGia.Designer.cs",
-              "RelativeToolTip": "View\\FormTacGia.Designer.cs",
-              "ViewState": "AgIAAN0CAAAAAAAAAAAYwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:42:21.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FormTacGia.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTacGia.cs",
-              "RelativeDocumentMoniker": "View\\FormTacGia.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTacGia.cs [Design]",
-              "RelativeToolTip": "View\\FormTacGia.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:42:12.852Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FormTheLoai.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheLoai.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormTheLoai.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheLoai.Designer.cs",
-              "RelativeToolTip": "View\\FormTheLoai.Designer.cs",
-              "ViewState": "AgIAAN0CAAAAAAAAAAAYwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:41:03.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FormTheLoai.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheLoai.cs",
-              "RelativeDocumentMoniker": "View\\FormTheLoai.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormTheLoai.cs [Design]",
-              "RelativeToolTip": "View\\FormTheLoai.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:40:53.752Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FormSach.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormSach.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormSach.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormSach.Designer.cs",
-              "RelativeToolTip": "View\\FormSach.Designer.cs",
-              "ViewState": "AgIAAN0CAAAAAAAAAAAYwAMDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:37:04.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FormSach.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormSach.cs",
-              "RelativeDocumentMoniker": "View\\FormSach.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormSach.cs [Design]",
-              "RelativeToolTip": "View\\FormSach.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:36:56.788Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FormDocGia.Designer.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormDocGia.Designer.cs",
-              "RelativeDocumentMoniker": "View\\FormDocGia.Designer.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormDocGia.Designer.cs",
-              "RelativeToolTip": "View\\FormDocGia.Designer.cs",
-              "ViewState": "AgIAAN8CAAAAAAAAAAAYwAUDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:36:07.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:31:14.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FormDocGia.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormDocGia.cs",
-              "RelativeDocumentMoniker": "View\\FormDocGia.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\FormDocGia.cs [Design]",
-              "RelativeToolTip": "View\\FormDocGia.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:19:51.06Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "4b902aec-2ee6-42d4-94e9-506fd0b83f47",
-        "Display": 0,
-        "X": 230,
-        "Y": 79,
-        "Width": 1061,
-        "Height": 697,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TrangChu.cs",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\TrangChu.cs",
-              "RelativeDocumentMoniker": "View\\TrangChu.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\TrangChu.cs",
-              "RelativeToolTip": "View\\TrangChu.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFAAAAAqAAAAAAAAAA==",
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\BTLc#\\View\\DangNhap.cs",
+              "RelativeDocumentMoniker": "View\\DangNhap.cs",
+              "ToolTip": "E:\\BTLc#\\View\\DangNhap.cs [Design]",
+              "RelativeToolTip": "View\\DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:50:18.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T03:51:25.583Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TrangChu.cs [Design]",
-              "DocumentMoniker": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\TrangChu.cs",
-              "RelativeDocumentMoniker": "View\\TrangChu.cs",
-              "ToolTip": "F:\\2025 - 2026\\StudyC#\\winform\\projectQLTV\\View\\TrangChu.cs [Design]",
-              "RelativeToolTip": "View\\TrangChu.cs [Design]",
+              "Title": "thuvien.cs",
+              "DocumentMoniker": "E:\\BTLc#\\thuvien.cs",
+              "RelativeDocumentMoniker": "thuvien.cs",
+              "ToolTip": "E:\\BTLc#\\thuvien.cs",
+              "RelativeToolTip": "thuvien.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:56:22.688Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-11T03:50:03.404Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 947,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

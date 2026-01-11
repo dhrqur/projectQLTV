@@ -11,7 +11,7 @@ namespace projectQLTV
 {
     internal class thuvien
     {
-        public static SqlConnection con = new SqlConnection("Data source = DESKTOP-I2TII2N\\SQLEXPRESS;Initial Catalog = dbqltv;Integrated Security = True");
+        public static SqlConnection con = new SqlConnection("Data Source=DUC;Initial Catalog=dbqltv;Integrated Security=True");
         public static void Hienthi(DataGridView dgv, SqlCommand cmd)
         {
             if (thuvien.con.State == ConnectionState.Closed)

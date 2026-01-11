@@ -291,18 +291,18 @@ INSERT INTO Sach (MaSach, MaTG, MaNXB, MaTL, TenSach, NamXB, SoLuong, MoTa, MaNN
 
 -- ===== DOC GIA =====
 INSERT INTO DocGia (MaDG, MaKhoa, MaLop, TenDG, GioiTinh, DiaChi, Email, Sdt) VALUES
-(N'DG001', N'K01', N'L01', N'Nguyễn Minh Tuấn', N'Nam', N'Phường Dịch Vọng, Cầu Giấy, Hà Nội', 'tuan.nm.k63a@sv.utt.edu.vn', '0398123456'),
-(N'DG002', N'K01', N'L02', N'Trần Thùy Linh', N'Nữ', N'Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội', 'linh.tt.k63b@sv.utt.edu.vn', '0389123456'),
-(N'DG003', N'K02', N'L03', N'Phạm Đức Long', N'Nam', N'Phường Mộ Lao, Hà Đông, Hà Nội', 'long.pd.log@sv.utt.edu.vn', '0977001122'),
-(N'DG004', N'K02', N'L04', N'Vũ Ngọc Anh', N'Nữ', N'Phường Láng Thượng, Đống Đa, Hà Nội', 'anh.vn.ktvt@sv.utt.edu.vn', '0868123123'),
-(N'DG005', N'K03', N'L05', N'Đỗ Quang Minh', N'Nam', N'Phường Ngọc Khánh, Ba Đình, Hà Nội', 'minh.dq.ck62a@sv.utt.edu.vn', '0919002233'),
-(N'DG006', N'K03', N'L06', N'Lê Hoàng Nam', N'Nam', N'Phường Phú Thượng, Tây Hồ, Hà Nội', 'nam.lh.ot62b@sv.utt.edu.vn', '0933004455'),
-(N'DG007', N'K04', N'L07', N'Nguyễn Thị Hạnh', N'Nữ', N'Phường Khương Trung, Thanh Xuân, Hà Nội', 'hanh.nt.tdh@sv.utt.edu.vn', '0966007788'),
-(N'DG008', N'K05', N'L08', N'Trịnh Gia Bảo', N'Nam', N'Phường Yên Hòa, Cầu Giấy, Hà Nội', 'bao.tgb.cd63@sv.utt.edu.vn', '0978123987'),
-(N'DG009', N'K01', N'L01', N'Hoàng Khánh Ly', N'Nữ', N'Phường Trung Hòa, Cầu Giấy, Hà Nội', 'ly.hk.cntt@sv.utt.edu.vn', '0834567812'),
-(N'DG010', N'K02', N'L03', N'Ngô Đức Thành', N'Nam', N'Phường Văn Quán, Hà Đông, Hà Nội', 'thanh.nd.log@sv.utt.edu.vn', '0702345678'),
-(N'DG011', N'K04', N'L07', N'Bùi Thu Hà', N'Nữ', N'Phường Đại Kim, Hoàng Mai, Hà Nội', 'ha.bt.tdh@sv.utt.edu.vn', '0356789123'),
-(N'DG012', N'K05', N'L08', N'Đinh Quang Hùng', N'Nam', N'Phường Minh Khai, Hai Bà Trưng, Hà Nội', 'hung.dq.cd@sv.utt.edu.vn', '0845678901');
+(N'DG001', N'K001', N'L001', N'Nguyễn Minh Tuấn', N'Nam', N'Phường Dịch Vọng, Cầu Giấy, Hà Nội', 'tuan.nm.k63a@sv.utt.edu.vn', '0398123456'),
+(N'DG002', N'K001', N'L002', N'Trần Thùy Linh', N'Nữ', N'Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội', 'linh.tt.k63b@sv.utt.edu.vn', '0389123456'),
+(N'DG003', N'K002', N'L003', N'Phạm Đức Long', N'Nam', N'Phường Mộ Lao, Hà Đông, Hà Nội', 'long.pd.log@sv.utt.edu.vn', '0977001122'),
+(N'DG004', N'K002', N'L004', N'Vũ Ngọc Anh', N'Nữ', N'Phường Láng Thượng, Đống Đa, Hà Nội', 'anh.vn.ktvt@sv.utt.edu.vn', '0868123123'),
+(N'DG005', N'K003', N'L005', N'Đỗ Quang Minh', N'Nam', N'Phường Ngọc Khánh, Ba Đình, Hà Nội', 'minh.dq.ck62a@sv.utt.edu.vn', '0919002233'),
+(N'DG006', N'K003', N'L006', N'Lê Hoàng Nam', N'Nam', N'Phường Phú Thượng, Tây Hồ, Hà Nội', 'nam.lh.ot62b@sv.utt.edu.vn', '0933004455'),
+(N'DG007', N'K004', N'L007', N'Nguyễn Thị Hạnh', N'Nữ', N'Phường Khương Trung, Thanh Xuân, Hà Nội', 'hanh.nt.tdh@sv.utt.edu.vn', '0966007788'),
+(N'DG008', N'K005', N'L008', N'Trịnh Gia Bảo', N'Nam', N'Phường Yên Hòa, Cầu Giấy, Hà Nội', 'bao.tgb.cd63@sv.utt.edu.vn', '0978123987'),
+(N'DG009', N'K001', N'L001', N'Hoàng Khánh Ly', N'Nữ', N'Phường Trung Hòa, Cầu Giấy, Hà Nội', 'ly.hk.cntt@sv.utt.edu.vn', '0834567812'),
+(N'DG010', N'K002', N'L003', N'Ngô Đức Thành', N'Nam', N'Phường Văn Quán, Hà Đông, Hà Nội', 'thanh.nd.log@sv.utt.edu.vn', '0702345678'),
+(N'DG011', N'K004', N'L007', N'Bùi Thu Hà', N'Nữ', N'Phường Đại Kim, Hoàng Mai, Hà Nội', 'ha.bt.tdh@sv.utt.edu.vn', '0356789123'),
+(N'DG012', N'K005', N'L008', N'Đinh Quang Hùng', N'Nam', N'Phường Minh Khai, Hai Bà Trưng, Hà Nội', 'hung.dq.cd@sv.utt.edu.vn', '0845678901');
 GO
 
 -- ===== THE THU VIEN =====
@@ -343,10 +343,10 @@ INSERT INTO ChiTietMuonTra (MaMT, MaSach, SoLuong) VALUES
 (N'MT001', N'S003', 1),
 
 (N'MT002', N'S002', 1),
-(N'MT002', N'S020', 1),
+(N'MT002', N'S003', 1),
 
 (N'MT003', N'S004', 1),
-(N'MT003', N'S016', 1),
+(N'MT003', N'S010', 1),
 
 (N'MT004', N'S005', 1),
 (N'MT004', N'S006', 1),
@@ -356,19 +356,19 @@ INSERT INTO ChiTietMuonTra (MaMT, MaSach, SoLuong) VALUES
 (N'MT006', N'S007', 1),
 (N'MT006', N'S009', 1),
 
-(N'MT007', N'S014', 1),
-(N'MT007', N'S015', 1),
+(N'MT007', N'S008', 1),
+(N'MT007', N'S005', 1),
 
-(N'MT008', N'S011', 1),
+(N'MT008', N'S001', 1),
 
-(N'MT009', N'S018', 1),
+(N'MT009', N'S008', 1),
 
 (N'MT010', N'S010', 1),
-(N'MT010', N'S012', 1),
+(N'MT010', N'S002', 1),
 
-(N'MT011', N'S013', 1),
+(N'MT011', N'S003', 1),
 
-(N'MT012', N'S019', 1);
+(N'MT012', N'S009', 1);
 GO
 
 -- ===== PHIEU TRA (chỉ cho các MT đã trả) =====
@@ -381,9 +381,9 @@ GO
 
 -- ===== PHIEU DAT TRUOC =====
 INSERT INTO PhieuDatTruoc (MaPhieuDat, MaDG, MaSach, NgayDat, TrangThai, NgayHetHan) VALUES
-(N'PD001', N'DG001', N'S018', '2026-01-03', N'Đang chờ', '2026-01-10'),
+(N'PD001', N'DG001', N'S008', '2026-01-03', N'Đang chờ', '2026-01-10'),
 (N'PD002', N'DG004', N'S005', '2025-12-20', N'Hết hạn', '2025-12-27'),
 (N'PD003', N'DG007', N'S002', '2026-01-05', N'Đang chờ', '2026-01-12'),
 (N'PD004', N'DG009', N'S004', '2025-12-28', N'Đã hủy',  '2026-01-04'),
-(N'PD005', N'DG010', N'S011', '2025-12-30', N'Đang chờ', '2026-01-06');
+(N'PD005', N'DG010', N'S001', '2025-12-30', N'Đang chờ', '2026-01-06');
 GO
