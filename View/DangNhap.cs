@@ -37,10 +37,13 @@ namespace projectQLTV
         {
 
         }
-
+        string MaHoa(string mk)
+        {
+            return Convert.ToBase64String(Encoding.UTF8.GetBytes(mk));
+        }
         private void guna2Button1_Click(object sender, EventArgs e){
-            string user = txtUser.Text;
-            string pass = txtPass.Text;
+            string user = txtUser.Text.Trim();
+            string pass = MaHoa(txtPass.Text.Trim());
             try{
                 connect();
                 if (user == "" || pass == ""){
@@ -48,7 +51,7 @@ namespace projectQLTV
                     return;
                 }
 
-                string sql = "SELECT count(*) FROM NhanVien WHERE Tendangnhap= '"+user.Trim()+"' AND Matkhau = '"+pass.Trim()+"'";
+                string sql = "SELECT count(*) FROM NhanVien WHERE Tendangnhap= '"+user+"' AND Matkhau = '"+pass+"'";
                 SqlCommand cmd = new SqlCommand(sql, con);
                 int ketqua = (int)cmd.ExecuteScalar();
                 cmd.Dispose();

@@ -112,5 +112,18 @@ namespace projectQLTV
             OpenChildForm(new FormThongKe());
 
         }
+
+        private void guna2Button1_Click_1(object sender, EventArgs e)
+        {
+            DialogResult dr = MessageBox.Show("Bạn có chắc muốn đăng xuất?", "Xác nhận",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
+
+            if (dr == DialogResult.Yes)
+            {
+                
+                DangNhap formdangnhap = new DangNhap();
+                formdangnhap.Show();
+                this.Close();
+            }
+        }
     }
 }
