@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|e:\\btlc#\\view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|e:\\btlc#\\view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|e:\\btlc#\\view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|e:\\btlc#\\view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|e:\\btlc#\\view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|e:\\btlc#\\view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1409A93B-CED8-4CDA-A7D4-FFD64C1864CA}|projectQLTV.csproj|solutionrelative:view\\formdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,71 +48,46 @@
               "RelativeDocumentMoniker": "View\\FormNhanVien.cs",
               "ToolTip": "E:\\BTLc#\\View\\FormNhanVien.cs",
               "RelativeToolTip": "View\\FormNhanVien.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAvwPcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAG0BAAAAAAAAAAA6wH4BAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T07:40:45.904Z",
+              "WhenOpened": "2026-01-11T13:56:59.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormTacGia.cs",
+              "DocumentMoniker": "E:\\BTLc#\\View\\FormTacGia.cs",
+              "RelativeDocumentMoniker": "View\\FormTacGia.cs",
+              "ToolTip": "E:\\BTLc#\\View\\FormTacGia.cs",
+              "RelativeToolTip": "View\\FormTacGia.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwJ8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:50:35.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormNhanVien.cs [Design]",
               "DocumentMoniker": "E:\\BTLc#\\View\\FormNhanVien.cs",
               "RelativeDocumentMoniker": "View\\FormNhanVien.cs",
               "ToolTip": "E:\\BTLc#\\View\\FormNhanVien.cs [Design]",
               "RelativeToolTip": "View\\FormNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:03:31.605Z",
+              "WhenOpened": "2026-01-11T13:45:48.71Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormTacGia.cs",
-              "DocumentMoniker": "E:\\BTLc#\\View\\FormTacGia.cs",
-              "RelativeDocumentMoniker": "View\\FormTacGia.cs",
-              "ToolTip": "E:\\BTLc#\\View\\FormTacGia.cs",
-              "RelativeToolTip": "View\\FormTacGia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:58:53.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FormTacGia.cs [Design]",
               "DocumentMoniker": "E:\\BTLc#\\View\\FormTacGia.cs",
               "RelativeDocumentMoniker": "View\\FormTacGia.cs",
               "ToolTip": "E:\\BTLc#\\View\\FormTacGia.cs [Design]",
               "RelativeToolTip": "View\\FormTacGia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:58:30.212Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormDocGia.cs",
-              "DocumentMoniker": "E:\\BTLc#\\View\\FormDocGia.cs",
-              "RelativeDocumentMoniker": "View\\FormDocGia.cs",
-              "ToolTip": "E:\\BTLc#\\View\\FormDocGia.cs",
-              "RelativeToolTip": "View\\FormDocGia.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:23:44.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormDocGia.cs [Design]",
-              "DocumentMoniker": "E:\\BTLc#\\View\\FormDocGia.cs",
-              "RelativeDocumentMoniker": "View\\FormDocGia.cs",
-              "ToolTip": "E:\\BTLc#\\View\\FormDocGia.cs [Design]",
-              "RelativeToolTip": "View\\FormDocGia.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:23:41.793Z",
+              "WhenOpened": "2026-01-11T13:45:29.64Z",
               "EditorCaption": " [Design]"
             }
           ]

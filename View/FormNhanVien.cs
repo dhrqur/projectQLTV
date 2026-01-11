@@ -17,6 +17,11 @@ namespace projectQLTV.View
         {
             InitializeComponent();
             load_NhanVien();
+            btn_them.Enabled = true;
+            btn_xoa.Enabled = false;
+            btn_sua.Enabled = false;
+            txtMaNV.Enabled = false;
+            txtMaNV.Text = TaoMaNV();
         }
         SqlConnection con = thuvien.con;
         public void connect()
@@ -60,12 +65,30 @@ namespace projectQLTV.View
         {
             return Convert.ToBase64String(Encoding.UTF8.GetBytes(mk));
         }
+        string TaoMaNV()
+        {
+            connect();
+            string sql = "SELECT TOP 1 MaNV FROM NhanVien ORDER BY MaNV DESC";
+            SqlCommand cmd = new SqlCommand(sql, con);
+            object kq = cmd.ExecuteScalar();
+            cmd.Dispose();
+            con.Close();
 
-        
+            if (kq == null)
+                return "NV001";
+
+            string maCu = kq.ToString();
+            int so = int.Parse(maCu.Substring(2));
+            so++;
+            return "NV" + so.ToString("000");
+        }
+
+
 
         private void guna2Button3_Click(object sender, EventArgs e)
         {
-            string MaNV = txtMaNV.Text.Trim();
+            string MaNV = TaoMaNV();
+            txtMaNV.Text = MaNV;
             string TenNV = txtTenNV.Text.Trim();
             string QueQuan = txtQueQuan.Text.Trim();
             string GioiTinh = cboGioiTinh.SelectedItem.ToString();
@@ -82,22 +105,31 @@ namespace projectQLTV.View
                 MessageBox.Show("Mã nhân viên đã tồn tại, vui lòng nhập mã khác!");
                 return;
             }
-
-            connect();
-            string sql = "INSERT INTO NhanVien (MaNV, TenNV, QueQuan, GioiTinh, VaiTro, DiaChi, Email, Sdt, Tendangnhap, Matkhau) " +
-                         "VALUES ('" + MaNV + "', N'" + TenNV + "', N'" + QueQuan + "', N'" + GioiTinh + "', N'" + VaiTro + "', N'" + DiaChi + "', '" + Email + "', '" + Sdt + "', N'" + Tendangnhap + "', N'" + Matkhau + "')";
-            SqlCommand cmd = new SqlCommand(sql, con);
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            con.Close();
-            MessageBox.Show("Thêm mới thành công!");
-            load_NhanVien();
+            try
+            {
+                connect();
+                string sql = "INSERT INTO NhanVien (MaNV, TenNV, QueQuan, GioiTinh, VaiTro, DiaChi, Email, Sdt, Tendangnhap, Matkhau) " +
+                             "VALUES ('" + MaNV + "', N'" + TenNV + "', N'" + QueQuan + "', N'" + GioiTinh + "', N'" + VaiTro + "', N'" + DiaChi + "', '" + Email + "', '" + Sdt + "', N'" + Tendangnhap + "', N'" + Matkhau + "')";
+                SqlCommand cmd = new SqlCommand(sql, con);
+                cmd.ExecuteNonQuery();
+                cmd.Dispose();
+                con.Close();
+                MessageBox.Show("Thêm mới thành công!");
+                load_NhanVien();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi thêm nhân viên: " + ex.Message);
+            }
         }
 
         private void dgvnhanvien_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             int i = dgvNhanVien.CurrentCell.RowIndex;
-
+            txtMaNV.Enabled = true;
+            btn_them.Enabled = false;
+            btn_xoa.Enabled = true;
+            btn_sua.Enabled = true;
             txtMaNV.Text = dgvNhanVien.Rows[i].Cells[0].Value.ToString();
             txtTenNV.Text = dgvNhanVien.Rows[i].Cells[1].Value.ToString();
             txtQueQuan.Text = dgvNhanVien.Rows[i].Cells[2].Value.ToString();
@@ -112,23 +144,30 @@ namespace projectQLTV.View
 
         private void btn_xoa_Click(object sender, EventArgs e)
         {
-            string MaNV =txtMaNV.Text.Trim();
+            string MaNV = txtMaNV.Text.Trim();
             if (con.State == ConnectionState.Closed)
             {
                 con.Open();
             }
-            string sql = "DELETE FROM NhanVien WHERE MaNV='" + MaNV + "'";
-            SqlCommand cmd = new SqlCommand(sql, con);
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            con.Close();
-            MessageBox.Show("Xóa thành công");
-            load_NhanVien();
-
+            try
+            {
+                string sql = "DELETE FROM NhanVien WHERE MaNV='" + MaNV + "'";
+                SqlCommand cmd = new SqlCommand(sql, con);
+                cmd.ExecuteNonQuery();
+                cmd.Dispose();
+                con.Close();
+                MessageBox.Show("Xóa thành công");
+                load_NhanVien();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi xóa nhân viên: " + ex.Message);
+            }
         }
 
         private void btn_sua_Click(object sender, EventArgs e)
         {
+            txtMaNV.Enabled = false;
             string MaNV = txtMaNV.Text.Trim();
             string TenNV = txtTenNV.Text.Trim();
             string QueQuan = txtQueQuan.Text.Trim();
@@ -144,15 +183,21 @@ namespace projectQLTV.View
             {
                 con.Open();
             }
+            try
+            {
+                string sql = "UPDATE NhanVien SET " + "TenNV = N'" + TenNV + "', QueQuan = N'" + QueQuan + "', GioiTinh = N'" + GioiTinh + "', VaiTro = N'" + VaiTro + "', DiaChi = N'" + DiaChi + "', Email = N'" + Email + "', Sdt = '" + Sdt + "', Tendangnhap = N'" + Tendangnhap + "', Matkhau = N'" + Matkhau + "' WHERE MaNV = '" + MaNV + "'";
 
-            string sql = "UPDATE NhanVien SET " +"TenNV = N'" + TenNV +"', QueQuan = N'" + QueQuan +"', GioiTinh = N'" + GioiTinh +"', VaiTro = N'" + VaiTro +"', DiaChi = N'" + DiaChi +"', Email = N'" + Email +"', Sdt = '" + Sdt +"', Tendangnhap = N'" + Tendangnhap +"', Matkhau = N'" + Matkhau +"' WHERE MaNV = '" + MaNV + "'";
-
-            SqlCommand cmd = new SqlCommand(sql, con);
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            con.Close();
-            MessageBox.Show("Sửa thành công");
-            load_NhanVien();
+                SqlCommand cmd = new SqlCommand(sql, con);
+                cmd.ExecuteNonQuery();
+                cmd.Dispose();
+                con.Close();
+                MessageBox.Show("Sửa thành công");
+                load_NhanVien();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi sửa nhân viên: " + ex.Message);
+            }
         }
 
         private void guna2Button2_Click(object sender, EventArgs e)
@@ -174,43 +219,52 @@ namespace projectQLTV.View
         public string filename = "";
         private void guna2Button7_Click(object sender, EventArgs e)
         {
-            OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Filter = "Excel Files|*.xlsx;*.xls";
-
-            if (ofd.ShowDialog() != DialogResult.OK)
+            try
             {
-                MessageBox.Show("Chưa chọn file");
-                return;
-            }
+                OpenFileDialog ofd = new OpenFileDialog();
+                ofd.Filter = "Excel Files|*.xlsx;*.xls";
 
-            filename = ofd.FileName;
-
-            nhanvien.Application Excel = new nhanvien.Application();
-            Excel.Workbooks.Open(filename);
-
-            foreach (nhanvien.Worksheet wsheet in Excel.Worksheets)
-            {
-                int i = 2;
-                do
+                if (ofd.ShowDialog() != DialogResult.OK)
                 {
-                    if (wsheet.Cells[i, 1].Value == null)
-                        break;
-
-                    string MaNV = wsheet.Cells[i, 1].Value.ToString();
-                    string TenNV = wsheet.Cells[i, 2].Value.ToString();
-                    string QueQuan = wsheet.Cells[i, 3].Value.ToString();
-                    string GioiTinh = wsheet.Cells[i, 4].Value.ToString();
-                    string VaiTro = wsheet.Cells[i, 5].Value.ToString();
-                    string DiaChi = wsheet.Cells[i, 6].Value.ToString();
-                    string Email = wsheet.Cells[i, 7].Value.ToString();
-                    string Sdt = wsheet.Cells[i, 8].Value.ToString();
-                    string Tendangnhap = wsheet.Cells[i, 9].Value.ToString();
-                    string Matkhau = wsheet.Cells[i, 10].Value.ToString();
-
-                    ThemmoiNhanVien(MaNV, TenNV, QueQuan, GioiTinh, VaiTro, DiaChi, Email, Sdt, Tendangnhap, Matkhau);
-                    i++;
+                    MessageBox.Show("Chưa chọn file");
+                    return;
                 }
-                while (true);
+
+                filename = ofd.FileName;
+
+                nhanvien.Application Excel = new nhanvien.Application();
+                Excel.Workbooks.Open(filename);
+
+                foreach (nhanvien.Worksheet wsheet in Excel.Worksheets)
+                {
+                    int i = 2;
+                    do
+                    {
+                        if (wsheet.Cells[i, 1].Value == null)
+                            break;
+
+                        string MaNV = wsheet.Cells[i, 1].Value.ToString();
+                        string TenNV = wsheet.Cells[i, 2].Value.ToString();
+                        string QueQuan = wsheet.Cells[i, 3].Value.ToString();
+                        string GioiTinh = wsheet.Cells[i, 4].Value.ToString();
+                        string VaiTro = wsheet.Cells[i, 5].Value.ToString();
+                        string DiaChi = wsheet.Cells[i, 6].Value.ToString();
+                        string Email = wsheet.Cells[i, 7].Value.ToString();
+                        string Sdt = wsheet.Cells[i, 8].Value.ToString();
+                        string Tendangnhap = wsheet.Cells[i, 9].Value.ToString();
+                        string Matkhau = wsheet.Cells[i, 10].Value.ToString();
+
+                        ThemmoiNhanVien(MaNV, TenNV, QueQuan, GioiTinh, VaiTro, DiaChi, Email, Sdt, Tendangnhap, Matkhau);
+                        i++;
+                        
+                    }
+                    while (true);
+                    load_NhanVien();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi nhập file Excel: " + ex.Message);
             }
         }
         private void ThemmoiNhanVien(string MaNV, string TenNV, string QueQuan, string GioiTinh, string VaiTro, string DiaChi, string Email, string Sdt, string Tendangnhap, string Matkhau)
@@ -311,9 +365,34 @@ namespace projectQLTV.View
 
         private void btnxuatexcel_Click(object sender, EventArgs e)
         {
-            DataTable dt = (DataTable)dgvNhanVien.DataSource;
-            ExportExcel(dt, "NhanVienExcel");
-            load_NhanVien();
+            try {
+                DataTable dt = (DataTable)dgvNhanVien.DataSource;
+                ExportExcel(dt, "NhanVienExcel");
+                load_NhanVien();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi xuất file Excel: " + ex.Message);
+            }
+           
+        }
+        private void guna2Button6_Click(object sender, EventArgs e)
+        {
+            btn_them.Enabled = true;
+            btn_xoa.Enabled = false;
+            btn_sua.Enabled = false;
+            txtMaNV.Enabled = false;
+            txtMaNV.Text = TaoMaNV();
+            txtEmail.Clear();
+            txtMatkhau.Clear();
+            txtQueQuan.Clear();
+            txtSdt.Clear();
+            txtTenNV.Clear();
+            txtTendangnhap.Clear();
+            cboDiaChi.SelectedIndex = 1;
+            cboGioiTinh.SelectedIndex = 1;
+            cboVaiTro.SelectedIndex = 1;
+
         }
     }
 }
